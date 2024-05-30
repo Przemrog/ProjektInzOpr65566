@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233930DD-D974-40B8-990C-072BC3847047}|ProjektTest\\ProjektTest.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projekttest\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233930DD-D974-40B8-990C-072BC3847047}|ProjektTest\\ProjektTest.csproj|solutionrelative:projekttest\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233930DD-D974-40B8-990C-072BC3847047}|ProjektTest\\ProjektTest.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projekttest\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233930DD-D974-40B8-990C-072BC3847047}|ProjektTest\\ProjektTest.csproj|solutionrelative:projekttest\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233930DD-D974-40B8-990C-072BC3847047}|ProjektTest\\ProjektTest.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projekttest\\authortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233930DD-D974-40B8-990C-072BC3847047}|ProjektTest\\ProjektTest.csproj|solutionrelative:projekttest\\authortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|c:\\users\\przem\\desktop\\repoz\\projektsklep\\projektsklep\\migrations\\20240530211501_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ADDE28-6FC3-47BD-BB2F-502386084D08}|ProjektSklep\\ProjektSklep.csproj|solutionrelative:projektsklep\\migrations\\20240530211501_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektTest\\CategoryTests.cs",
+              "RelativeDocumentMoniker": "ProjektTest\\CategoryTests.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektTest\\CategoryTests.cs",
+              "RelativeToolTip": "ProjektTest\\CategoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:21:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\BookService.cs",
+              "RelativeToolTip": "ProjektSklep\\Services\\BookService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADgvzwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:10:01.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ProjektSklep\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:10:05.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Services\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\IAuthorService.cs",
+              "RelativeToolTip": "ProjektSklep\\Services\\IAuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:10:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\IBookService.cs",
+              "RelativeToolTip": "ProjektSklep\\Services\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:10:14.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "ProjektSklep\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:10:18.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "ProjektSklep\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:08:30.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Models\\Author.cs",
+              "RelativeToolTip": "ProjektSklep\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:09:47.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Dtos\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Dtos\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Dtos\\AuthorDto.cs",
+              "RelativeToolTip": "ProjektSklep\\Dtos\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:09:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProjektSklep\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:08:42.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240530211501_initMigration.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Migrations\\20240530211501_initMigration.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Migrations\\20240530211501_initMigration.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Migrations\\20240530211501_initMigration.cs",
+              "RelativeToolTip": "ProjektSklep\\Migrations\\20240530211501_initMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:15:01.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorTests.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektTest\\AuthorTests.cs",
+              "RelativeDocumentMoniker": "ProjektTest\\AuthorTests.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektTest\\AuthorTests.cs",
+              "RelativeToolTip": "ProjektTest\\AuthorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:20:56.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookTests.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektTest\\BookTests.cs",
+              "RelativeDocumentMoniker": "ProjektTest\\BookTests.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektTest\\BookTests.cs",
+              "RelativeToolTip": "ProjektTest\\BookTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:21:01.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Startup.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Startup.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Startup.cs",
+              "RelativeToolTip": "ProjektSklep\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:01:53.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjektSklep\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjektSklep\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T21:02:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ProjektSklep\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:08:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookstoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\BookstoreDbContext.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\BookstoreDbContext.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\BookstoreDbContext.cs",
+              "RelativeToolTip": "ProjektSklep\\BookstoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:01:50.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Services\\AuthorService.cs",
+              "RelativeToolTip": "ProjektSklep\\Services\\AuthorService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:09:58.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Models\\Book.cs",
+              "RelativeToolTip": "ProjektSklep\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:09:49.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Dtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Dtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Dtos\\BookDto.cs",
+              "RelativeToolTip": "ProjektSklep\\Dtos\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:09:36.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "ProjektSklep\\Dtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:09:40.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Models\\Category.cs",
+              "RelativeToolTip": "ProjektSklep\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:09:51.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjektSklep\\appsettings.json",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\appsettings.json",
+              "RelativeToolTip": "ProjektSklep\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T21:01:29.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Program.cs",
+              "RelativeDocumentMoniker": "ProjektSklep\\Program.cs",
+              "ToolTip": "C:\\Users\\przem\\Desktop\\repoz\\ProjektSklep\\ProjektSklep\\Program.cs",
+              "RelativeToolTip": "ProjektSklep\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:01:21.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
